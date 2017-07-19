@@ -1,0 +1,15 @@
+	id	batch	host_disease	 run_number
+SRR1528344.filtered.fastq	1	asthma	138
+SRR1528346.filtered.fastq	2	asthma	138
+SRR1528348.filtered.fastq	3	asthma	138
+SRR1528420.filtered.fastq	4	asthma	138
+SRR1528426.filtered.fastq	5	asthma	139
+SRR1528430.filtered.fastq	6	asthma	139
+SRR1528434.filtered.fastq	7	asthma	139
+SRR1528456.filtered.fastq	8	asthma	139
+SRR1528458.filtered.fastq	9	healthy	138
+SRR1528460.filtered.fastq	10	healthy	138
+SRR1528462.filtered.fastq	11	healthy	138
+SRR1528464.filtered.fastq	12	healthy	139
+SRR1528466.filtered.fastq	13	healthy	139
+SRR1528468.filtered.fastq	14	healthy	139
